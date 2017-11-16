@@ -1,0 +1,14 @@
+body {
+
+  background: #EEE8AA;
+  }
+  
+a {
+  color: #000000;
+  display: inline;
+  padding: 50px;
+
+}
+a:hover {
+  text-decoration: none;
+}
